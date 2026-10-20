@@ -1,22 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041C2C,50:0B5273,100:06B6D4&height=210&section=header&text=SKYVIEW%20HOTELS%20%26%20RESORTS&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Luxury%20Beyond%20The%20Horizon.&descSize=20&descAlignY=60&animation=fadeIn" alt="Skyview Hotels & Resorts" width="100%" />
+<br />
+
+# 🏨 Skyview Hotels & Resorts
 
 <a href="https://github.com/GhousDeveloper/Skyview-Hotels-Resorts">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3200&pause=1100&color=0B5273&center=true&vCenter=true&width=700&height=50&lines=Luxury+Hospitality+Experience+%E2%9C%A8;Modern+Resort+Booking+Platform+%F0%9F%8C%8A;Crafted+with+React+%2B+TypeScript+%E2%9A%A1;Designed+%26+Developed+by+Ghulam+Ghous+%F0%9F%92%BB" alt="Animated tagline: Luxury Hospitality Experience, Modern Resort Booking Platform, Crafted with React and TypeScript, Designed and Developed by Ghulam Ghous" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3200&pause=1200&color=0B5273&center=true&vCenter=true&width=640&height=48&lines=Luxury+Hospitality+Experience;Modern+Resort+Booking+Platform;Crafted+with+React+%2B+TypeScript;Designed+%26+Developed+by+Ghulam+Ghous" alt="Skyview Hotels & Resorts animated tagline" />
 </a>
 
 <br />
 
-<kbd>&nbsp;REACT&nbsp;</kbd> &nbsp;•&nbsp; <kbd>&nbsp;TYPESCRIPT&nbsp;</kbd> &nbsp;•&nbsp; <kbd>&nbsp;TAILWIND CSS&nbsp;</kbd> &nbsp;•&nbsp; <kbd>&nbsp;VITE&nbsp;</kbd>
+**A modern luxury hospitality experience built with React, TypeScript, Vite & Tailwind CSS.**
 
-<br /><br />
+<br />
 
-<img src="https://img.shields.io/badge/React_19-06283D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-<img src="https://img.shields.io/badge/TypeScript-06283D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Vite-06283D?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06283D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
-<img src="https://img.shields.io/badge/Lucide_React-06283D?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
+<img src="https://img.shields.io/badge/React-19-06283D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/TypeScript-Strict-06283D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vite-Build_Tool-06283D?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06283D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
+
+<br />
+
+<img src="https://img.shields.io/github/license/GhousDeveloper/Skyview-Hotels-Resorts?style=flat-square&color=0B5273&label=License" alt="License" />
+<img src="https://img.shields.io/github/last-commit/GhousDeveloper/Skyview-Hotels-Resorts?style=flat-square&color=0B5273&label=Last%20Commit" alt="Last commit" />
+<img src="https://img.shields.io/github/stars/GhousDeveloper/Skyview-Hotels-Resorts?style=flat-square&color=0B5273&label=Stars" alt="GitHub stars" />
 
 <br /><br />
 
@@ -24,13 +31,12 @@
 
 <br />
 
-[Showcase](#-project-showcase) &nbsp;·&nbsp;
-[About](#-about-skyview) &nbsp;·&nbsp;
-[Features](#-feature-experience) &nbsp;·&nbsp;
-[Built With](#%EF%B8%8F-built-with) &nbsp;·&nbsp;
-[Design DNA](#-design-dna) &nbsp;·&nbsp;
-[Get Started](#-getting-started) &nbsp;·&nbsp;
-[Developer](#-behind-the-build)
+[Project Preview](#-project-preview) &nbsp;·&nbsp;
+[Features](#-feature-highlights) &nbsp;·&nbsp;
+[Tech Stack](#-technology-stack) &nbsp;·&nbsp;
+[Design System](#-design-system) &nbsp;·&nbsp;
+[Getting Started](#-installation--local-development) &nbsp;·&nbsp;
+[Developer](#-developer)
 
 </div>
 
@@ -38,7 +44,7 @@
 
 ---
 
-# ✨ Project Showcase
+## ✨ Project Preview
 
 <div align="center">
 
@@ -46,106 +52,127 @@
   <img src="./Capture2.PNG" alt="Skyview Hotels & Resorts — main website screenshot" width="100%" />
 </a>
 
-<br /><br />
+<br />
 
-> An immersive luxury hospitality experience combining elegant visual storytelling, interactive resort discovery and a streamlined reservation journey.
-
-</div>
-
----
-
-# 🏨 About Skyview
-
-**Skyview Hotels & Resorts** is a modern luxury hospitality and resort booking web application designed and developed by **Ghulam Ghous**.
-
-It provides an immersive digital experience for exploring:
-
-<div align="center">
-
-🏝️ **Luxury Resorts** &nbsp;·&nbsp; 🛏️ **Premium Rooms & Suites** &nbsp;·&nbsp; 🏊 **Private Pool Villas** &nbsp;·&nbsp; 🍽️ **Fine Dining**
-
-🧘 **Spa & Wellness** &nbsp;·&nbsp; 🌴 **Curated Experiences** &nbsp;·&nbsp; 📅 **Interactive Reservations**
+<sub><em>A premium coastal hospitality interface designed around immersive visuals, effortless exploration, and streamlined reservations.</em></sub>
 
 </div>
 
 ---
 
-# ⚡ Feature Experience
+## 🌊 About The Project
 
-| | Experience | Highlights |
-|:-:|---|---|
-| 🏝️ | **Luxury Hero** | Immersive resort imagery & editorial presentation |
-| 📅 | **Booking Engine** | Destination, dates, guests & availability |
-| 🛏️ | **Rooms & Suites** | Interactive luxury accommodation catalog |
-| 🌍 | **Global Experience** | Multiple languages & currencies |
-| 🎁 | **Special Offers** | Countdown & promotional booking flow |
-| 🖼️ | **Gallery** | Full-screen resort photography |
-| ⭐ | **Testimonials** | Interactive guest reviews |
-| 💬 | **Concierge** | 24/7 private guest assistance |
+**Skyview Hotels & Resorts** is a modern luxury hospitality and resort booking web application created by **Ghulam Ghous**. It pairs editorial typography and immersive imagery with a streamlined reservation workflow, so guests can move from inspiration to booking with ease.
+
+The experience is built around:
+
+- **Luxury resort presentation** with a cinematic, full-width introduction
+- **Oceanfront suites** and **private pool villas**
+- **Fine dining**, **wellness experiences**, and **curated activities**
+- **Interactive room discovery** with detailed modals
+- **A complete reservation workflow** with dynamic pricing
+- **A fully responsive user experience** across every screen size
 
 ---
 
-## 💎 Crafted Experiences
+## 💎 Feature Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧘 Spa & Wellness
-Relaxation and holistic wellness experiences.
+### 🏝️ Luxury Hero Experience
+- Full-width resort presentation
+- Editorial typography
+- Floating booking interface
 
     </td>
     <td width="50%" valign="top">
 
-### 🍽️ Culinary Journey
-Premium dining and curated culinary experiences.
+### 📅 Interactive Booking Engine
+- Destination selection
+- Check-in / check-out
+- Date validation
+- Guest selection
+- Availability flow
+- Dynamic booking pricing
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🏄 Adventure Tours
-Memorable destination activities and adventures.
+### 🌍 Language & Currency
+- EN / USD
+- FR / EUR
+- DE / EUR
+- JP / JPY
+- Dynamic rate conversion
 
     </td>
     <td width="50%" valign="top">
 
-### 🌴 Local Culture
-Authentic cultural discovery and local experiences.
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛏️ Accommodation Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Accommodation types**
-
+### 🛏️ Rooms & Suites
 - Deluxe Room
 - Ocean View Suite
 - Private Pool Villa
 - Family Suite
 - Skyview Royal Penthouse
 - Cliffside Retreat Bungalow
+- Room detail modals
+- Pricing and amenities
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌴 Resort Experiences
+- Spa & Wellness
+- Culinary Journey
+- Adventure Tours
+- Local Culture
+- Detailed experience modals
 
     </td>
     <td width="50%" valign="top">
 
-**Every stay includes**
+### ⭐ Guest Experience
+- Why Choose Us
+- Guest testimonials
+- Ratings
+- Interactive testimonial slider
 
-- ✔ Room details
-- ✔ Occupancy information
-- ✔ Bed configuration
-- ✔ Resort views
-- ✔ Pricing
-- ✔ Reservation flow
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎁 Special Offers
+- Live countdown timer
+- `SKYVIEW30` promotional code
+- 30% promotional discount
+- Automatic booking integration
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🖼️ Resort Gallery
+- Full-screen gallery
+- 12 high-resolution images
+- Category filtering
+- Lightbox experience
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🔎 Search & Concierge
+- Quick search
+- Room and experience discovery
+- 24/7 private concierge
+- Custom travel inquiries
 
     </td>
   </tr>
@@ -153,77 +180,59 @@ Authentic cultural discovery and local experiences.
 
 ---
 
-## 🎁 Interactive Features
-
-| Feature | Description |
-|---|---|
-| ⏱️ **Live Countdown** | Real-time Days / Hours / Minutes / Seconds. |
-| 🏷️ **Promotional Booking** | `SKYVIEW30` automatically applies a 30% promotional discount. |
-| 💱 **Currency Conversion** | Supports USD, EUR and JPY experiences. |
-| 🪟 **Interactive Modals** | Room details, booking, experiences, video, search, gallery and contact experiences. |
-| 🔎 **Smart Search** | Fast room and resort experience discovery. |
-
----
-
-# ⚙️ Built With
+## 🛠️ Technology Stack
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/React_19-06283D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
 <img src="https://img.shields.io/badge/TypeScript-06283D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06283D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
 <img src="https://img.shields.io/badge/Vite-06283D?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-<img src="https://img.shields.io/badge/Lucide_React-06283D?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS_v4-06283D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS v4" />
+
+<img src="https://img.shields.io/badge/Lucide_React-06283D?style=for-the-badge&logo=lucide&logoColor=F56565" alt="Lucide React" />
+<img src="https://img.shields.io/badge/HTML5-06283D?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/JavaScript-06283D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Modern JavaScript" />
 
 </div>
 
 <br />
 
-| Category | Technologies |
+| Layer | Technologies |
 |---|---|
-| **Frontend** | React 19, TypeScript |
-| **Styling** | Tailwind CSS v4 |
-| **Build** | Vite |
+| **Framework** | React 19 |
+| **Language** | TypeScript, Modern JavaScript |
+| **Build Tooling** | Vite |
+| **Styling** | Tailwind CSS v4, HTML5 |
 | **Icons** | Lucide React |
-| **Typography** | Playfair Display · Plus Jakarta Sans · Caveat |
+| **Typography** | Playfair Display, Plus Jakarta Sans, Caveat |
 
 ---
 
-## 🎨 Design DNA
+## 🎨 Design System
 
-Skyview combines **Luxury Hospitality + Coastal Visuals + Editorial Typography + Modern Web Interaction** into a calm, confident and refined interface.
+The visual direction blends **luxury hospitality**, **coastal aesthetics**, **editorial typography**, and **modern SaaS-quality interaction design** into a calm, confident, and refined interface.
 
-| Swatch | Color | Hex |
-|:-:|---|---|
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-06283D?style=flat-square" alt="#06283D" /> | Deep Navy | `#06283D` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-041C2C?style=flat-square" alt="#041C2C" /> | Midnight Navy | `#041C2C` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-0B5273?style=flat-square" alt="#0B5273" /> | Ocean Blue | `#0B5273` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-F4F8FC?style=flat-square" alt="#F4F8FC" /> | Soft Blue White | `#F4F8FC` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-FFFFFF?style=flat-square" alt="#FFFFFF" /> | Pure White | `#FFFFFF` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-667785?style=flat-square" alt="#667785" /> | Muted Slate | `#667785` |
-| <img src="https://img.shields.io/badge/-%20%20%20%20%20%20%20-DDE7EF?style=flat-square" alt="#DDE7EF" /> | Hairline Border | `#DDE7EF` |
+| Color | Hex | Purpose |
+|---|---|---|
+| ![#06283D](https://img.shields.io/badge/-%20%20%20%20-06283D?style=flat-square) Deep Navy | `#06283D` | Primary brand / headings / CTA |
+| ![#041C2C](https://img.shields.io/badge/-%20%20%20%20-041C2C?style=flat-square) Midnight Navy | `#041C2C` | Footer / overlays |
+| ![#0B5273](https://img.shields.io/badge/-%20%20%20%20-0B5273?style=flat-square) Ocean Blue | `#0B5273` | Interactive elements |
+| ![#F4F8FC](https://img.shields.io/badge/-%20%20%20%20-F4F8FC?style=flat-square) Soft Blue White | `#F4F8FC` | Main backgrounds |
+| ![#FFFFFF](https://img.shields.io/badge/-%20%20%20%20-FFFFFF?style=flat-square) Pure White | `#FFFFFF` | Cards / surfaces |
+| ![#667785](https://img.shields.io/badge/-%20%20%20%20-667785?style=flat-square) Muted Slate | `#667785` | Secondary text |
+| ![#DDE7EF](https://img.shields.io/badge/-%20%20%20%20-DDE7EF?style=flat-square) Hairline Border | `#DDE7EF` | Borders / separators |
 
----
+**Typography**
 
-# 📱 Responsive Experience
-
-<div align="center">
-
-| 💻 DESKTOP | 📟 TABLET | 📱 MOBILE | 🖥️ LARGE DISPLAY |
-|:-:|:-:|:-:|:-:|
-
-Navigation, booking interfaces, cards, imagery, modals and typography adapt gracefully across screen sizes.
-
-</div>
+| Typeface | Role |
+|---|---|
+| **Playfair Display** | Editorial headings and display text |
+| **Plus Jakarta Sans** | Interface text and body copy |
+| **Caveat** | Handwritten accents |
 
 ---
 
-# 📂 Project Architecture
-
-<details>
-<summary><b>📂 View Project Structure</b></summary>
-
-<br />
+## 🗂️ Project Architecture
 
 ```text
 Skyview-Hotels-Resorts/
@@ -262,56 +271,88 @@ Skyview-Hotels-Resorts/
 └── vite.config.ts
 ```
 
+<details>
+<summary><strong>📁 Folder & file overview</strong></summary>
+
+<br />
+
+| Path | Description |
+|---|---|
+| `public/images/` | Static image assets served with the application |
+| `src/components/` | Reusable UI sections, including the hero, booking search, featured rooms, special offer, modals, navigation, and footer |
+| `src/data/resortData.ts` | Centralized resort content such as rooms, experiences, and related data |
+| `src/utils/resortImages.ts` | Image helper utilities for the resort visuals |
+| `src/App.tsx` | Root application component that composes the page |
+| `src/index.css` | Global styles and Tailwind CSS entry point |
+| `src/main.tsx` | Application entry point |
+| `Capture2.PNG` | Main website screenshot used in this README |
+| `vite.config.ts` | Vite configuration |
+| `tsconfig.json` | TypeScript configuration |
+
 </details>
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Installation & Local Development
 
 **1. Clone the repository**
 
 ```bash
 git clone https://github.com/GhousDeveloper/Skyview-Hotels-Resorts.git
-```
-
-**2. Enter the project directory**
-
-```bash
 cd Skyview-Hotels-Resorts
 ```
 
-**3. Install dependencies**
+**2. Install dependencies**
 
 ```bash
 npm install
 ```
 
-**4. Start the development server**
+**3. Start the development server**
 
 ```bash
 npm run dev
 ```
 
-> Open the local development URL displayed by Vite in your terminal.
+Then open the local URL shown in your terminal.
 
-**5. Build for production**
+**4. Create a production build**
 
 ```bash
 npm run build
 ```
 
+> [!NOTE]
+> Run `npm run lint` only if a `lint` script is defined in your `package.json`.
+
 ---
 
-# 👨‍💻 Behind The Build
+## 📱 Responsive Experience
+
+Skyview Hotels & Resorts is designed to feel polished on every device, with layouts that adapt gracefully across screen sizes.
+
+| Device | Experience |
+|---|---|
+| 💻 **Desktop** | Immersive full-width layouts with a floating booking interface |
+| 📟 **Tablet** | Balanced grids and touch-friendly interactions |
+| 📱 **Mobile** | Streamlined navigation, stacked cards, and thumb-friendly booking |
+| 🖥️ **Large Displays** | Generous spacing and crisp imagery that scales beautifully |
+
+Responsive behavior covers **navigation**, **cards**, **the booking UI**, **modals**, **imagery**, **typography**, and **overall layout**.
+
+---
+
+## 👨‍💻 Developer
 
 <div align="center">
 
-### Ghulam Ghous
-**Full-Stack & Frontend Developer**
+**Ghulam Ghous**
+<br />
+*Full-Stack & Frontend Developer*
 
 <br />
 
-> Building modern web applications, polished user interfaces and intelligent digital experiences.
+> Passionate about building modern web applications, polished user interfaces, and intelligent digital experiences.
 
 <br />
 
@@ -323,9 +364,10 @@ npm run build
 
 ---
 
-# 📜 License
+## 📄 License
 
-Licensing information, where provided, is available in the repository's `LICENSE` file.
+This project is licensed under the **Apache License 2.0**.
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -333,16 +375,12 @@ Licensing information, where provided, is available in the repository's `LICENSE
 
 <br />
 
-**Crafted with ❤️ & ☕ by [Ghulam Ghous](https://github.com/GhousDeveloper)**
+**Designed & Developed with ❤️ by [Ghulam Ghous](https://github.com/GhousDeveloper)**
 
-<br />
+<sub><em>Where every stay begins with a view worth remembering.</em></sub>
 
-**Skyview Hotels & Resorts**
+<br /><br />
 
-*Where luxury meets the horizon.*
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06283D,100:0B5273&height=130&section=footer&animation=fadeIn" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06283D,100:0B5273&height=110&section=footer" alt="" width="100%" />
 
 </div>
